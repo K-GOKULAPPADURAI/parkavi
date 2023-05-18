@@ -7,6 +7,5 @@ tensorflow
 scipy
 scikit-learn
 numpy
-numba
-resampy
-librosa
+opencv-python
+
